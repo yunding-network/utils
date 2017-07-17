@@ -1,0 +1,24 @@
+{
+  "name": "dding-utils",
+  "version": "1.0.0",
+  "description": "The utils for dding server",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunding-network/utils.git"
+  },
+  "keywords": [
+    "dding",
+    "yunding",
+    "utils"
+  ],
+  "author": "Yunding-network",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yunding-network/utils/issues"
+  },
+  "homepage": "https://github.com/yunding-network/utils#readme"
+}
